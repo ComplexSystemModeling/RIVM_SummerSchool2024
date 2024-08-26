@@ -1,0 +1,3 @@
+[submodule "day3"]
+	path = day3
+	url = git@github.com:cvanelteren/CoughsAndEdges.git
