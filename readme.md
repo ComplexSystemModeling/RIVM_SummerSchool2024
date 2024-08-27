@@ -10,3 +10,10 @@ Throughout the course, you'll have access to a wealth of resources. Each day's f
 
 Whether you're a seasoned professional or new to the field, this summer school will challenge your thinking, expand your skills, and connect you with a community of like-minded learners. We hope you're as excited as we are to embark on this journey together!
 
+
+
+# Things to prepare
+Before we can start on our journey, we will be using python and its scientific stack. Please  make sure you have a `anaconda`, `conda`, `micromamba`, or `mamba` installed. Follow, the respective guides on the links below for your operating system.
+
+- [Anaconda](https://docs.anaconda.com/anaconda/install/)
+- [mamba/mircomamba](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.html)
