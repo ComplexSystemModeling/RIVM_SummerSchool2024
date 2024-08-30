@@ -10,7 +10,20 @@ Throughout the course, you'll have access to a wealth of resources. Each day's f
 
 Whether you're a seasoned professional or new to the field, this summer school will challenge your thinking, expand your skills, and connect you with a community of like-minded learners. We hope you're as excited as we are to embark on this journey together!
 
+# How to Clone This Repo?
+From the command line inside your termial, got to the directory (folder) you want to store this repository, e.g. under windows `c:\\Users\[YOUR USERNAME]`, under linux in `~/`. 
+Then run the following commands
 
+```sh
+git clone git@github.com:ComplexSystemModeling/RIVM_SummerSchool2024.git 
+git submode update --init --recursive
+```
+If any updates are pushed to submodules later on they can be retrieved by running
+
+```
+git submodule update --recursive
+```
+Be sure to reach out when things are unclear!
 
 # Things to prepare
 Before we can start on our journey, we will be using python and its scientific stack. Please  make sure you have a `anaconda`, `conda`, `micromamba`, or `mamba` installed. Follow, the respective guides on the links below for your operating system.
